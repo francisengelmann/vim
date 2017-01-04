@@ -6,3 +6,4 @@ set number
 set ruler
 set backspace=indent,eol,start
 
+au BufNewFile,BufFilePre,BufRead *.md set filetype=markdown
