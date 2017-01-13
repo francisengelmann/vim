@@ -7,3 +7,4 @@ set ruler
 set backspace=indent,eol,start
 set spell spelllang=en_us
 
+au BufNewFile,BufFilePre,BufRead *.md set filetype=markdown
