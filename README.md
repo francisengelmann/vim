@@ -12,3 +12,5 @@ Go to your home directory, then type the following:
 
 ### References
 * https://www.cs.oberlin.edu/~kuperman/help/vim/home.html
+* Cpoy pasta: http://vim.wikia.com/wiki/Copy,_cut_and_paste
+* Spell checker: 
