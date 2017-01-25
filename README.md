@@ -9,3 +9,6 @@ Go to your home directory, then type the following:
 ### Snippets
 * Ctrl-p
 * Ctrl-x-f
+
+### References
+* https://www.cs.oberlin.edu/~kuperman/help/vim/home.html
